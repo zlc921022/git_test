@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         // 1. 测试rebase1
         // 1. 测试rebase2
+        // 3. 测试rebase3
     }
 }
